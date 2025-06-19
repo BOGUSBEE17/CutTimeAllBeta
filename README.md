@@ -1,3 +1,28 @@
+🎬 CutTimeAll (Beta) – English
+Version: 0.9.1 Beta
+Built with: Python + CustomTkinter + VLC
+License: Free for non-commercial use
+
+📝 About the Tool
+CutTimeAll is a simple yet powerful tool to cut and merge video clips using start/end markers.
+Designed for fast, clean workflows – based on the classic time.txt method.
+
+🔧 Features
+Mark start/end points with the spacebar
+Edit multiple time.txt files
+Automatically merge clips into MP4 using ffmpeg
+Integrated VLC player for stable playback
+Custom paths & flexible settings
+🚀 Getting Started
+Install VLC: www.videolan.org
+Run CutTime.exe
+Load a video and press spacebar – done
+💡 Tips
+Use the Edit button to correct timing mistakes
+Enable auto-merge to generate an MP4 instantly
+Check the sample folders for orientation
+
+
 # ⏱️ CutTime – Minimalistischer Zeitmanager für deinen Alltag
 
 **CutTime** ist eine schlanke, benutzerfreundliche Zeitverwaltungs-App, die dir hilft, deinen Tag in produktive Abschnitte zu unterteilen. Ideal für konzentriertes Arbeiten, Lerneinheiten, Pausen oder als visuelle Strukturierung deines Alltags.
