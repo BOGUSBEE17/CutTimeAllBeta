@@ -13,10 +13,12 @@ Edit multiple time.txt files
 Automatically merge clips into MP4 using ffmpeg
 Integrated VLC player for stable playback
 Custom paths & flexible settings
+
 🚀 Getting Started
 Install VLC: www.videolan.org
 Run CutTime.exe
 Load a video and press spacebar – done
+
 💡 Tips
 Use the Edit button to correct timing mistakes
 Enable auto-merge to generate an MP4 instantly
